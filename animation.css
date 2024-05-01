@@ -1,0 +1,29 @@
+#scoreboard {
+    width: 600px;
+    height: 50px;
+    background-color: aquamarine;
+    font-family: Garamond, serif;
+    font-size: 40px;
+    position: relative;
+}
+#container {
+    width: 600px;
+    height: 600px;
+    background-color: pink;
+    position: relative;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    border-radius: 50%;
+}
+
+#startButton {
+    width: 100px;
+    height: 50px;
+    font-family: Garamond, serif;
+    font-size: 40px;
+}
